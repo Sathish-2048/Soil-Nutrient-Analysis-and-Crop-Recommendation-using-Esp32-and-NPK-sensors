@@ -1,0 +1,1 @@
+# Soil-Nutrient-Analysis-and-Crop-Recommendation-using-Esp32-and-NPK-sensors
