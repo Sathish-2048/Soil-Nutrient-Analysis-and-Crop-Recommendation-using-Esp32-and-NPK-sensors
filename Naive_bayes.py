@@ -36,7 +36,7 @@ print(X_train)
 
 print(X_test)
 
-# Training the Decision Tree Classification model on the Training set
+# Training the Naive Bayes Classification model on the Training set
 
 from sklearn.naive_bayes import GaussianNB
 classifier = GaussianNB()
